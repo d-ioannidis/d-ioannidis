@@ -1,4 +1,4 @@
-<img src=https://github.com/dmitris1821gr/dmitris1821gr>
+<img src=https://github.com/dmitris1821gr/dmitris1821gr/blob/main/Big-Data-header.png>
 
 Hello, 👋
 
