@@ -2,7 +2,7 @@
 
 Hello, 👋
 
-My name is Dimitrios Ioannidis, I am a Computer Engineering student at the International Hellenic University, Greece. Aside from my university studies, I also dedicate some time to creating projects and programs related to these fields:
+My name is Dimitrios Ioannidis, I am a Computer and Telecommunications Engineering student at the International Hellenic University, Greece. Aside from my university studies, I also dedicate some time to creating projects and programs related to these fields:
 
 - Data Engineering 👷
 - Data Analytics, 📈 and a bit of
