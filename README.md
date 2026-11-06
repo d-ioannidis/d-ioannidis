@@ -2,9 +2,10 @@
 
 Hello, 👋
 
-My name is Dimitrios Ioannidis, I am a graduate of the International Hellenic University, Greece, from the Department of Informatics, Computer & Telecommunications Engineering. 
+My name is Dimitrios Ioannidis. I am a graduate of the International Hellenic University, Greece, from the Department of Informatics, Computer & Telecommunications Engineering. 
 
-Right now, I am a Master's student in Data Science specializing in Machine Learning and Natural Language Processing at Luleå University of Technology, where I have completed all mandatory coursework. 
-As of now, I am working on my thesis titled "Anomaly (fact-checking) detection of social media data in crisis management.
-I am also a Former Software Developer & ERP Consultant with experience in Python, SQL, JavaScript, data integration, and BI tools like Power BI. 
-I am actively exploring projects in Data Engineering, Data Analytics, and Natural Language Processing.
+I recently graduated from Luleå University of Technology with an MSc in Data Science, specializing in Natural Language Processing, machine learning, and text mining. My master’s research focuses on detecting anomalous and potentially misleading social-media content in crisis-management contexts.
+ 
+Before beginning my MSc, I worked as a Software Developer and ERP Consultant, implementing business systems for more than 200 clients and developing API integrations, web applications, and data-exchange solutions. This experience gave me a strong foundation in software engineering, databases, and deploying solutions in real operational environments.
+ 
+I am particularly interested in research involving NLP, misinformation and fact-checking, social-media analysis, trustworthy AI, and applied machine learning. I am currently exploring PhD and research opportunities where I can combine rigorous data-science research with practical software-engineering experience.
